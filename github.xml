@@ -4,7 +4,4 @@
       <server host="github.com" />
     </account>
   </component>
-  <component name="GithubSettings">
-    <option name="COPY_URL_GIST" value="true" />
-  </component>
 </application>
